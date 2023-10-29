@@ -1,5 +1,10 @@
 # Ascii-Earth-Powershell
 Cool little ascii sphere, you can map ascii textures to (:
+
+If you want to create your own texture 
+https://www.asciiart.eu/image-to-ascii
+https://texteditor.com/ascii-art/
+
 ---
 To run it first copy and paste an ascii texture (below are examples),
 Then copy paste the actual code, then just imput your ascii texture variable!
