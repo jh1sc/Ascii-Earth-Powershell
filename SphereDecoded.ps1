@@ -10,6 +10,7 @@ $cos = @(for ($i = 0; $i -lt 1000; $i += 1) { [Math]::Cos($i * 0.006283185307179
 $R = New-Object System.Random
 $strs = @()
 for ($i = 0; $i -lt 10; $i++) {$str = @{x = $R.next(1,80);y = $R.next(1,40);s = $R.next(1,5)};$strs += $str}
+[system.console]::title = "Ascii Earth - Made by JH1SC"
 [void][System.Console]::SetWindowSize(80, 44)
 Clear-Host
 # Animation loop
@@ -43,6 +44,7 @@ while ($true) {
         $aY += 0.065
     }
     $aA += 0.09
+    
     [Console]::SetCursorPosition(0, 0)
     [console]::write([string]::join("", $oA))
 }
