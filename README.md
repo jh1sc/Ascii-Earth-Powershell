@@ -1,5 +1,14 @@
 # Ascii-Earth-Powershell
 Cool little ascii sphere, you can map ascii textures to (:
+---
+To run it first copy and paste an ascii texture (below are examples),
+Then copy paste the actual code, then just imput your ascii texture variable!
+
+```
+Paste : $FancyEarth = (...)
+Paste : (Code)
+
+```
 
 ```
 Param($t)
