@@ -1,5 +1,5 @@
 # Ascii-Earth-Powershell
-Cool little ascii sphere, you can map ascii textures to (:
+Cool little ascii sphere, you can map ascii textures to (: it also comes with little stars
 
 If you want to create your own texture 
 https://www.asciiart.eu/image-to-ascii
