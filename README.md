@@ -5,6 +5,7 @@ If you want to create your own texture
 https://www.asciiart.eu/image-to-ascii
 https://texteditor.com/ascii-art/
 
+** ONLY TESTED ON POWERSHELL 5.1; WINDOWS; POWERSHELL CONSOLE **
 ---
 To run it first copy and paste an ascii texture (below are examples),
 Then copy paste the actual code, then just imput your ascii texture variable!
