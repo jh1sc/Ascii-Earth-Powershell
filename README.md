@@ -1,5 +1,5 @@
 # Ascii-Earth-Powershell
-[!](https://github.com/jh1sc/Ascii-Earth-Powershell/blob/main/globae.mp4)
+![GLOBE](https://github.com/jh1sc/Ascii-Earth-Powershell/blob/main/globae.gif)
 
 Cool little ascii sphere, you can map ascii textures to (: it also comes with little stars
 
